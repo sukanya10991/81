@@ -1,0 +1,15 @@
+body{ 
+    background-image: url("original.jpg");
+    background-position: center;
+    background-size: cover;
+    }
+
+canvas{
+    border-width:10px;
+    background-color:powderblue ;
+    border-style:ridge;
+    }
+
+span{
+     font-size: 20px;
+    }
